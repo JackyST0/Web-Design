@@ -17,7 +17,7 @@
 style 属性的作用：提供了一种改变所有 HTML 元素的样式的通用方法。
 background-color 属性为元素定义了背景颜色。
 font-family、color 以及 font-size 属性分别定义元素中文本的字体系列、颜色和字体尺寸。
-text-align 属性规定了元素中文本的水平对齐方式
+text-align 属性规定了元素中文本的水平对齐方式。
 ```
 
 ### 格式化：
